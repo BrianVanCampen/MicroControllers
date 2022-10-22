@@ -4,6 +4,7 @@ Het doel van deze oefening is een dieper begrip te creëren wat het effect is va
 
 bouw onderstaande schakeling:
 
+![image](https://user-images.githubusercontent.com/91600019/197347377-521d9ed7-752d-4c87-80b5-7493be455a33.png)
 
 
 Pas de code van de vorige oefening aan zodat je met de trimmer de duty-cycle deze PWM uitgang kan variëren tussen 5% en 95%

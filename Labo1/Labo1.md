@@ -44,3 +44,9 @@ Dus géén zip files en géén container folders! ( Dus ook geen tar.gz of ander
 
 Voeg ook een eenvoudig tekstbestand toe ( .txt -> notepad bvb)  met je verklaring bij oefening 1.3
 Van de andere deeltjes (1.1 & 1.2) hoef je niets in te dienen.
+
+
+# Oplossing 
+
+
+[Labo1_4_LedfaderLIb.zip](https://github.com/BrianVanCampen/MicroControllers/files/9844699/Labo1_4_LedfaderLIb.zip)

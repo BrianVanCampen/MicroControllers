@@ -1,0 +1,3 @@
+fader KEYWORD1
+fadein KEYWORD2
+fadeout KEYWORD2

@@ -1,9 +1,9 @@
-7.1 I/0 Operaties met registers
+# 7.1 I/0 Operaties met registers
 
 Om mogelijke verwarring tegen te gaan: de oefeningen hieronder make we terug met de Arduino Nano.
 
 
-7.1.1 Blink
+## 7.1.1 Blink
 
 Bij de typische Arduino instructies was onze eerste kennismaking de "blink sketch".
 Dit doen we nu nog eens over doch dit keer schrijven we de code zelf én maken we hiervoor gebruik
@@ -12,7 +12,7 @@ We spreken hier dus over de ATMega die in de Arduino Nano zit en niet de losse c
 
 
 
-7.1.2 Up/Down LED-bar
+## 7.1.2 Up/Down LED-bar
 
 Als tweede oefening besturen we 9 LED's op uitgang D4 tot D12 met behulp van 2 drukknoppen.
 
@@ -25,7 +25,7 @@ De functie van de drukknop "down" is dan uiteraard hetzelfde maar in de andere r
 Zowel de in- als uitgangen stuur je aan via de registers van de MCU. Probeer met slimme bitoperaties je code zo eenvoudig mogelijk te houden.
 
 
-7.1.3 Chronometer met registers
+## 7.1.3 Chronometer met registers
 
 We nemen hier even de opdracht terug van de chrono-meter uit Arduino programming.
 Dat was een chronometer gebruikmakende van alle 4 de digits van de 7-segment display uit ons bakje.
@@ -42,9 +42,9 @@ Als je dit op de juiste manier doet zal je merken dat jou code merkelijk eenvoud
 
 
 
-7.2 I/O Access
+# 7.2 I/O Access
 
-7.2.1 snelheidstest
+## 7.2.1 snelheidstest
 
 Om te illustreren wat het effect is van de Arduino-library code op de snelheid waarmee de GPIO bereikbaar zijn doen we een meting.
 Schrijf een simpele Arduino sketch die een digitale pin hoog zet, hier na direct terug laag en dit oneindig blijft herhalen.

@@ -77,7 +77,9 @@ Voeg ook een eenvoudig tekstbestand toe ( .txt -> notepad bvb)  met je verklarin
 Van de andere deeltjes (1.1 & 1.2) hoef je niets in te dienen.
 
 
-# Oplossing 
+# Oplossing
+[Labo1.zip](https://github.com/BrianVanCampen/MicroControllers/files/12699391/Labo1.zip)
 
 
-[Labo1_4_LedfaderLIb.zip](https://github.com/BrianVanCampen/MicroControllers/files/9844699/Labo1_4_LedfaderLIb.zip)
+
+

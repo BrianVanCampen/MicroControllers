@@ -1,3 +1,34 @@
+# 1. PWM
+
+
+# 1.1. LED Dimmer
+
+Als aanloopje in dit labo start je met een schakeling te bouwen met 2 LED's en drie drukknoppen. 
+
+Met 2 drukknoppen kan je de intensiteit van de LED's meer of minder zetten, de 3de drukknop toggelt tussen de twee LED's,
+m.a.w. op welke van de twee LED's de up/down drukknoppen van toepassing zijn.
+
+De LED die niet geselecteerd is moet zijn laatste intensiteit blijven behouden.
+Voor de up/down gebruik je interrupts, voor de toggle drukknop een gewone ingang.
+
+Zoals steeds gebruiken we als voorkeur negative logica voor de drukknoppen.
+
+
+# 1.2. PWM meting met scoop
+
+Bouw een schakeling met twee trimmers aangesloten tussen Vcc en GND en met de middenloper op de analoge ingangen A0 en A1.
+Sluit vervolgens PWM uitgangen op pin D9 en D10 aan op de scoop
+
+Schrijf een stukje code die de duty-cycle doet variëren tussen 1 en 99% afhankelijk van de trimmer standen. Dus één trimmer voor uitgang D9 en één trimmer voor uitgang D10
+Bekijk de PWM signalen beiden mooi onder elkaar op de scoop. 
+
+Zie je wat er gebeurt als je de duty-cycle aanpast ?
+
+Meet vervolgens ook de frequentie van het PWM signaal.
+
+Pas je code aan om uitgangen D5 en D6 te gebruiken. Meet opnieuw de frequentie.
+
+Pas je code aan om uitgangen D3 en opnieuw D5 te gebruiken. Bekijk opnieuw de PWM signalen beiden mooi onder elkaar op de scoop en pas de duty-cycle aan.  Wat merk je ? 
 # 1.3. Clamper
 
 Het doel van deze oefening is een dieper begrip te creëren wat het effect is van een PWM signaal op deze basiscomponenten 
